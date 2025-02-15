@@ -454,11 +454,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 280442431942894658, guid: e27a2ccc18d278440a4fa9d92d79f90a, type: 3}
   m_PrefabInstance: {fileID: 93005816}
   m_PrefabAsset: {fileID: 0}
---- !u!61 &118362129 stripped
-BoxCollider2D:
-  m_CorrespondingSourceObject: {fileID: 5698998562531242539, guid: ae2e1116a77d82845a5de14e6b0827ae, type: 3}
-  m_PrefabInstance: {fileID: 888858644}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &121310473 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7261571472709495316, guid: 241b71b263e068a48bb75e839be48043, type: 3}
@@ -2145,7 +2140,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1346339343206355871, guid: ae2e1116a77d82845a5de14e6b0827ae, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2977407061060212077, guid: ae2e1116a77d82845a5de14e6b0827ae, type: 3}
       propertyPath: m_Name
@@ -12552,16 +12547,6 @@ CompositeCollider2D:
         Y: -110000000
       - X: 20000000
         Y: -120000000
-  - m_Collider: {fileID: 118362129}
-    m_ColliderPaths:
-    - - X: -34300000
-        Y: 63999996
-      - X: -44300004
-        Y: 63999996
-      - X: -44300004
-        Y: 57000000
-      - X: -34300000
-        Y: 57000000
   - m_Collider: {fileID: 337638979}
     m_ColliderPaths:
     - - X: -70400000
