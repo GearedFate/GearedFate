@@ -1,5 +1,9 @@
 # GearedFate - 2D Steampunk Boss Rush Action Game
 
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE5NjQ2NzM1LnBuZw==/original/75S7nd.png" alt="GearedFate Title Banner" width="100%"/>
+</p>
+
 > *"You awaken in the heart of a workshop. The gears still turn. The machines still move. But you? You are defective. And in this factory, defects are meant to be destroyed."*
 
 A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Rush Game Jam 2025**. Players control a discarded, defective automaton fighting through an army of relentless clockwork guardians using momentum-based melee mechanics to break free from the factory cycle.
