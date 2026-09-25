@@ -44,7 +44,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 ## Development & Team Credits
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE5NjI0MjY2LnBuZw==/original/GEmLAL.png" alt="Credits Header" width="30%"/>
+  <img src="https://img.itch.zone/aW1nLzE5NjI0MjYyLnBuZw==/original/GEmLAL.png" alt="Credits Header" width="30%"/>
 </p>
 
 A project built by **TEAM: BEHIND THE GEARS** for **Boss Rush Game Jam 2025**.
