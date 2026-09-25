@@ -14,7 +14,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 
 ## Game Overview & Features
 
-<p align="left">
+<p align="center">
   <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="30%"/>
 </p>
 
@@ -37,7 +37,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 
 ## Controls
 
-<p align="left">
+<p align="center">
   <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="30%"/>
 </p>
 
@@ -52,7 +52,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 
 ## Development & Team Credits
 
-<p align="left">
+<p align="center">
   <img src="https://img.itch.zone/aW1nLzE5NjI0MjYyLnBuZw==/original/GEmLAL.png" alt="Credits Header" width="30%"/>
 </p>
 
