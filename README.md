@@ -1,51 +1,77 @@
 # GearedFate - 2D Steampunk Boss Rush Action Game
 
-A fast-paced, top-down 2D boss-rush action game developed in Unity for Boss Rush Game Jam 2025. Players control a discarded, defective automaton fighting through an army of relentless clockwork guardians using momentum-based melee mechanics to escape a haunting factory setting.
+> *"You awaken in the heart of a workshop. The gears still turn. The machines still move. But you? You are defective. And in this factory, defects are meant to be destroyed."*
 
-## Academic & Community Context
+A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Rush Game Jam 2025**. Players control a discarded, defective automaton fighting through an army of relentless clockwork guardians using momentum-based melee mechanics to break free from the factory cycle.
 
-* Event: Boss Rush Game Jam 2025
-* Team Name: Behind the Gears
-* Role: Project Manager & Lead Developer
-* Live Playable Build: Available on [lunathemoongirl.itch.io/geared-fate](https://lunathemoongirl.itch.io/geared-fate) *(Hardware Acceleration recommended for web builds)*
+🎮 **Playable Build:** [Play GearedFate on itch.io](https://bryanblaze00.itch.io/) *(Note: Enable Hardware Acceleration in your browser for optimal WebGL performance).*
 
-## Core Game Systems & Architecture
+---
 
-* Momentum-Based Spin Mechanics: Unique physics-driven attack systems leveraging rotational velocity and directional dashing to outmaneuver boss hitboxes.
+## Game Overview & Features
 
-* State-Driven Boss AI: Five distinct boss encounters featuring isolated phase transitions, attack patterns, and custom behavior routines.
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="100%"/>
+</p>
 
-* WebGL & Desktop Build Pipelines: Configured for low-latency web browser deployment via Unity WebGL alongside standalone executable distributions.
+* <img src="https://img.itch.zone/aW1nLzE5NjI1MzUyLmdpZg==/original/00Rm8t.gif" width="32" valign="middle"/> **Spin to Survive:** Use momentum-based attacks and rotational physics to outmaneuver foes and deflect damage.
 
-* Integrated Visual & Audio Presentation: Custom handmade 2D pixel art assets integrated with animated sprite renderers, custom particle effects, and original boss-specific soundtracks.
+* <img src="https://img.itch.zone/aW1nLzE5NjI1NDY4LmdpZg==/original/GMtUxj.gif" width="32" valign="middle"/> **Five Unique Bosses:** Face five distinct clockwork encounters, each featuring unique phase mechanics, behavior routines, and narrative purposes.
 
-## Leadership & Contributions
+* <img src="https://img.itch.zone/aW1nLzE5NjY1MTU1LmdpZg==/original/Fynl9y.gif" width="32" valign="middle"/> **Steampunk Aesthetic:** Explore rusted gear workshops and haunting factory environments brought to life with handmade pixel art.
 
-* Managed end-to-end game jam development lifecycles, sprint scope, task delegation, and cross-functional coordination between art, audio, and programming teams.
+* <img src="https://img.itch.zone/aW1nLzE5NjY1MTYzLmdpZg==/original/lo2sD%2F.gif" width="32" valign="middle"/> **Atmospheric Music:** Original adaptive audio tracks composed specifically for each boss encounter to heighten combat tension.
 
-* System design, gameplay loop implementation, input mapping, and UI/UX integration.
+* <img src="https://img.itch.zone/aW1nLzE5NjI1NDI2LmdpZg==/original/s0Vww8.gif" width="32" valign="middle"/> **A Story of Grief:** Unravel the lore of *The Great Creator* and the tragic downfall of the machines as you fight for self-determination.
 
-## Control Scheme
+---
 
-* Movement: WASD / Arrow Keys
-* Dash: Spacebar
-* Primary Attack: Left Mouse Button / J
-* Select Attack: Number Keys / Cycle Input
+## Controls
 
-## Tech Stack
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="100%"/>
+</p>
 
-* Game Engine: Unity
-* Programming Language: C#
-* Version Control: Git / GitHub
-* Production Management: Agile / Jam Sprint Scrum
+| Input Mapping | Action |
+| :--- | :--- |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTIyLmdpZg==/original/9gMeSX.gif" width="48"/> | Movement |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODIwLmdpZg==/original/AqskzL.gif" width="48"/> | Dash |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODA1LmdpZg==/original/QnZUDT.gif" width="48"/> | Use Attack |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTQzLmdpZg==/original/oRFdAn.gif" width="48"/> | Select Attack |
 
-## Development Team
+---
 
-* Bryan Blaze – Project Manager, Lead Developer & System Integrator
-* Datavore – Lead Art & Game Design
-* Dayen Creation – Gameplay Programming
-* Stilnat – Systems Programming
-* Jdewi – Mechanics Programming
-* Luna Lailatova – Pixel Art & Sprite Animation
-* Yadiau – Environment & Pixel Art
-* Dexpa – Narrative Writing, Original Music & SFX Design
+## Development & Team Credits
+
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE5NjI0MjY2LnBuZw==/original/GEmLAL.png" alt="Credits Header" width="100%"/>
+</p>
+
+A project built by **TEAM: BEHIND THE GEARS** for **Boss Rush Game Jam 2025**.
+
+* **Project Manager, Lead Developer & Systems Integrator:**
+  * [Bryan Blaze](https://bryanblaze00.itch.io/)
+
+* **Lead Art & Game Design:**
+  * [Datavore](https://www.artstation.com/artwork/rlZ3vG)
+
+* **Programming Team:**
+  * [Dayen Creation](https://dayen-creation.itch.io/)
+  * [Stilnat](https://github.com/stilnat)
+  * [Jdewi](https://github.com/Jdewi12)
+
+* **Pixel Art & Visuals:**
+  * [Luna Lailatova](https://lunathemoongirl.itch.io/)
+  * [Yadiau](https://yadiau.itch.io/)
+
+* **Narrative Writing, Original Music & SFX:**
+  * [Dexpa](https://dexpa.carrd.co/) ([itch.io](https://dexpa.itch.io/))
+
+---
+
+## Tech Stack & Tools
+
+* **Game Engine:** Unity (2D Pipeline)
+* **Programming Language:** C#
+* **Version Control:** Git / GitHub
+* **Target Platforms:** WebGL, Desktop Executable
