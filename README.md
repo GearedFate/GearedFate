@@ -11,7 +11,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 ## Game Overview & Features
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="50%"/>
+  <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="30%"/>
 </p>
 
 * <img src="https://img.itch.zone/aW1nLzE5NjI1MzUyLmdpZg==/original/00Rm8t.gif" width="32" valign="middle"/> **Spin to Survive:** Use momentum-based attacks and rotational physics to outmaneuver foes and deflect damage.
@@ -29,15 +29,15 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 ## Controls
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="50%"/>
+  <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="30%"/>
 </p>
 
 | Input Mapping | Action |
 | :--- | :--- |
-| <img src="https://img.itch.zone/aW1nLzE5NjUxOTIyLmdpZg==/original/9gMeSX.gif" width="48"/> | Movement |
-| <img src="https://img.itch.zone/aW1nLzE5Njg4ODIwLmdpZg==/original/AqskzL.gif" width="48"/> | Dash |
-| <img src="https://img.itch.zone/aW1nLzE5Njg4ODA1LmdpZg==/original/QnZUDT.gif" width="48"/> | Use Attack |
-| <img src="https://img.itch.zone/aW1nLzE5NjUxOTQzLmdpZg==/original/oRFdAn.gif" width="48"/> | Select Attack |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTIyLmdpZg==/original/9gMeSX.gif" width="75"/> | Movement |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODIwLmdpZg==/original/AqskzL.gif" width="75"/> | Dash |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODA1LmdpZg==/original/QnZUDT.gif" width="75"/> | Use Attack |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTQzLmdpZg==/original/oRFdAn.gif" width="75"/> | Select Attack |
 
 ---
 
