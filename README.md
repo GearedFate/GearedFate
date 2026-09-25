@@ -14,15 +14,15 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
   <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="30%"/>
 </p>
 
-* <img src="https://img.itch.zone/aW1nLzE5NjI1MzUyLmdpZg==/original/00Rm8t.gif" width="32" valign="middle"/> **Spin to Survive:** Use momentum-based attacks and rotational physics to outmaneuver foes and deflect damage.
+* <img src="https://img.itch.zone/aW1nLzE5NjI1MzUyLmdpZg==/original/00Rm8t.gif" width="50" valign="middle"/> **Spin to Survive:** Use momentum-based attacks and rotational physics to outmaneuver foes and deflect damage.
 
-* <img src="https://img.itch.zone/aW1nLzE5NjI1NDY4LmdpZg==/original/GMtUxj.gif" width="32" valign="middle"/> **Five Unique Bosses:** Face five distinct clockwork encounters, each featuring unique phase mechanics, behavior routines, and narrative purposes.
+* <img src="https://img.itch.zone/aW1nLzE5NjI1NDY4LmdpZg==/original/GMtUxj.gif" width="50" valign="middle"/> **Five Unique Bosses:** Face five distinct clockwork encounters, each featuring unique phase mechanics, behavior routines, and narrative purposes.
 
-* <img src="https://img.itch.zone/aW1nLzE5NjY1MTU1LmdpZg==/original/Fynl9y.gif" width="32" valign="middle"/> **Steampunk Aesthetic:** Explore rusted gear workshops and haunting factory environments brought to life with handmade pixel art.
+* <img src="https://img.itch.zone/aW1nLzE5NjY1MTU1LmdpZg==/original/Fynl9y.gif" width="50" valign="middle"/> **Steampunk Aesthetic:** Explore rusted gear workshops and haunting factory environments brought to life with handmade pixel art.
 
-* <img src="https://img.itch.zone/aW1nLzE5NjY1MTYzLmdpZg==/original/lo2sD%2F.gif" width="32" valign="middle"/> **Atmospheric Music:** Original adaptive audio tracks composed specifically for each boss encounter to heighten combat tension.
+* <img src="https://img.itch.zone/aW1nLzE5NjY1MTYzLmdpZg==/original/lo2sD%2F.gif" width="50" valign="middle"/> **Atmospheric Music:** Original adaptive audio tracks composed specifically for each boss encounter to heighten combat tension.
 
-* <img src="https://img.itch.zone/aW1nLzE5NjI1NDI2LmdpZg==/original/s0Vww8.gif" width="32" valign="middle"/> **A Story of Grief:** Unravel the lore of *The Great Creator* and the tragic downfall of the machines as you fight for self-determination.
+* <img src="https://img.itch.zone/aW1nLzE5NjI1NDI2LmdpZg==/original/s0Vww8.gif" width="50" valign="middle"/> **A Story of Grief:** Unravel the lore of *The Great Creator* and the tragic downfall of the machines as you fight for self-determination.
 
 ---
 
@@ -34,10 +34,10 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 
 | Input Mapping | Action |
 | :--- | :--- |
-| <img src="https://img.itch.zone/aW1nLzE5NjUxOTIyLmdpZg==/original/9gMeSX.gif" width="75"/> | Movement |
-| <img src="https://img.itch.zone/aW1nLzE5Njg4ODIwLmdpZg==/original/AqskzL.gif" width="75"/> | Dash |
-| <img src="https://img.itch.zone/aW1nLzE5Njg4ODA1LmdpZg==/original/QnZUDT.gif" width="75"/> | Use Attack |
-| <img src="https://img.itch.zone/aW1nLzE5NjUxOTQzLmdpZg==/original/oRFdAn.gif" width="75"/> | Select Attack |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTIyLmdpZg==/original/9gMeSX.gif" width="100"/> | Movement |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODIwLmdpZg==/original/AqskzL.gif" width="100"/> | Dash |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODA1LmdpZg==/original/QnZUDT.gif" width="100"/> | Use Attack |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTQzLmdpZg==/original/oRFdAn.gif" width="100"/> | Select Attack |
 
 ---
 
