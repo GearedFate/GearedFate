@@ -33,4 +33,58 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 
 * <img src="https://img.itch.zone/aW1nLzE5NjY1MTU1LmdpZg==/original/Fynl9y.gif" width="50" valign="middle"/> **Steampunk Aesthetic:** Explore rusted gear workshops and haunting factory environments brought to life with handmade pixel art.
 
-* <img src="
+* <img src="https://img.itch.zone/aW1nLzE5NjY1MTYzLmdpZg==/original/lo2sD%2F.gif" width="50" valign="middle"/> **Atmospheric Music:** Original adaptive audio tracks composed specifically for each boss encounter to heighten combat tension.
+
+* <img src="https://img.itch.zone/aW1nLzE5NjI1NDI2LmdpZg==/original/s0Vww8.gif" width="50" valign="middle"/> **A Story of Grief:** Unravel the lore of *The Great Creator* and the tragic downfall of the machines as you fight for self-determination.
+
+---
+
+## Controls
+
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="30%"/>
+</p>
+
+| Input Mapping | Action |
+| :--- | :--- |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTIyLmdpZg==/original/9gMeSX.gif" width="100"/> | Movement |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODIwLmdpZg==/original/AqskzL.gif" width="100"/> | Dash |
+| <img src="https://img.itch.zone/aW1nLzE5Njg4ODA1LmdpZg==/original/QnZUDT.gif" width="100"/> | Use Attack |
+| <img src="https://img.itch.zone/aW1nLzE5NjUxOTQzLmdpZg==/original/oRFdAn.gif" width="100"/> | Select Attack |
+
+---
+
+## Development & Team Credits
+
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzE5NjI0MjY2LnBuZw==/original/GEmLAL.png" alt="Credits Header" width="30%"/>
+</p>
+
+A project built by **TEAM: BEHIND THE GEARS** for **Boss Rush Game Jam 2025**.
+
+* **Project Manager, Lead Developer & Systems Integrator:**
+  * [Bryan Blaze](https://bryanblaze00.itch.io/)
+
+* **Lead Art & Game Design:**
+  * [Datavore](https://www.artstation.com/artwork/rlZ3vG)
+
+* **Programming Team:**
+  * [Dayen Creation](https://dayen-creation.itch.io/)
+  * [Stilnat](https://github.com/stilnat)
+  * [Jdewi](https://github.com/Jdewi12)
+
+* **Pixel Art & Visuals:**
+  * [Luna Lailatova](https://lunathemoongirl.itch.io/)
+  * [Yadiau](https://yadiau.itch.io/)
+
+* **Narrative Writing, Original Music & SFX:**
+  * [Dexpa](https://dexpa.carrd.co/) ([itch.io](https://dexpa.itch.io/))
+
+---
+
+## Tech Stack & Tools
+
+* **Game Engine:** Unity (2D Pipeline)
+* **Programming Language:** C#
+* **Version Control:** Git / GitHub
+* **Target Platforms:** WebGL, Desktop Executable
