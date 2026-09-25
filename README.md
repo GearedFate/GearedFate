@@ -11,7 +11,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 ## Game Overview & Features
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="100%"/>
+  <img src="https://img.itch.zone/aW1nLzE5NjI0MjUwLnBuZw==/original/2ug%2BFw.png" alt="Features Header" width="50%"/>
 </p>
 
 * <img src="https://img.itch.zone/aW1nLzE5NjI1MzUyLmdpZg==/original/00Rm8t.gif" width="32" valign="middle"/> **Spin to Survive:** Use momentum-based attacks and rotational physics to outmaneuver foes and deflect damage.
@@ -29,7 +29,7 @@ A fast-paced, top-down 2D boss-rush action game developed in Unity for **Boss Ru
 ## Controls
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="100%"/>
+  <img src="https://img.itch.zone/aW1nLzE5NjI0Mjg0LnBuZw==/original/jpjddi.png" alt="Controls Header" width="50%"/>
 </p>
 
 | Input Mapping | Action |
